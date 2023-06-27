@@ -1,0 +1,17 @@
+Nama	: Ni Luh Kadek Diantari
+NIM	: 2201010330
+Kelas	: F
+Jurusan	: TI-KAB
+Matkul	: Pemrograman Web
+
+*Deskripsi Project*
+
+Membuat Aplikasi Perpustakaan Berbasis Web
+
+Aplikasi ini dibuat agar bisa di akses oleh admin perpustakaan, dimana aplikasi ini bisa melakukan:
+1. Login
+2. Logout
+3. Menambah, Mengedit, dan Menghapus Data Anggota
+4. Menambah, Mengedit, dan Menghapus Data Buku
+5. Melakukan Transaksi (Peminjaman dan Pengembalian)
+6. Menggunakan database
